@@ -1,0 +1,4 @@
+.link-icon { position: relative; display: inline-block; width: auto;    font-size: 14px; font-weight: 500; color: #8f98b3; margin-top: 20px; margin-right: 10px; padding-top: 50px; padding-right: 10px;}
+.link-icon.twitter { background-image: url(./icon/icon-twitter.png); background-repeat: no-repeat; margin-right: 18px; }
+.link-icon.facebook { background-image: url(./icon/icon-facebook.png); background-repeat: no-repeat; } 
+.link-icon.kakao { background-image: url(./icon/icon-kakao.png); background-repeat: no-repeat; }
