@@ -4,9 +4,9 @@
 
 - Using different machine learning models
 
-  |Data|Data Description|
-  |---|----|
-  |[Data](https://www.oasis-brains.org/#data)|[Reference](https://direct.mit.edu/jocn/article/22/12/2677/4983/Open-Access-Series-of-Imaging-Studies-Longitudinal)|
+  |Data|Data Description|Result|
+  |---|----|------|
+  |[Data](https://www.oasis-brains.org/#data)|[Reference](https://direct.mit.edu/jocn/article/22/12/2677/4983/Open-Access-Series-of-Imaging-Studies-Longitudinal)|[Dementia Self-Checker](https://dementia-self-checker.netlify.app/)|
 
 - Using MRI images
   > It will make a very highly accurate model predict the stage of Alzheimers
