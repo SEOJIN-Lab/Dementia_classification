@@ -11,8 +11,8 @@
 - Using MRI images
   > It will make a very highly accurate model predict the stage of Alzheimers
 
-  |Data|Data Description|Result|
-  |---|----|------|
+  |Data|Data Description|
+  |---|----|
   |[Data](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images)|[Reference](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images)|
 
 
